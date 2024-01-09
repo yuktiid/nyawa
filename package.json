@@ -1,6 +1,4 @@
-  "scripts": {
-    "install": "npm install"
-  },
+
 {
   "name": "nuxt-app",
   "private": true,
